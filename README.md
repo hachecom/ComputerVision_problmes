@@ -4,3 +4,5 @@ hands-on with CV and DL and using them to solve real-world problems
 
 ## No. 1 - Face Recognition
 Perform fast, accurate face detection with OpenCV using a pre-trained deep learning face detector model shipped with the library.
+# No. 2 - Keras and Convolutional Neural Networks
+Building a complete end-to-end image classification + deep learning application
