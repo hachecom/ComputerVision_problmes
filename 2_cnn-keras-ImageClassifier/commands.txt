@@ -1,0 +1,2 @@
+python classify.py --model pokedex.model --labelbin lb.pickle \
+	--image examples/charmander_hidden.png
