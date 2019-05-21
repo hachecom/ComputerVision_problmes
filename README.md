@@ -21,3 +21,17 @@ Build a bubble sheet scanner and test grader using Python and OpenCV.
     Detemine if the answer was done.
     Lookup the correct answer in our answer key to determine if the user was correct in their choice.
     Repeat for all questions in the exam
+## No. 5 - OpenCV Text Detection
+How to use OpenCV to detect text in natural scene images using the EAST text detector.
+
+## No. 6 OpenCV Text Recognition
+ How to apply OpenCV OCR to perform both:
+    Text detection
+    Text recognition
+To accomplish this task we:
+    Utilized OpenCV’s EAST text detector, enabling us to apply deep learning to localize regions of text in an image
+    From there, we extracted each of the text ROIs and then applied text recognition using OpenCV and Tesseract v4.
+We also looked at Python code to perform both text detection and text recognition in a single script.
+
+## No. 7 Ball Tracking with OpenCV
+The Python script we developed was able to (1) detect the presence of the colored ball, followed by (2) track and draw the position of the ball as it moved around the screen.
