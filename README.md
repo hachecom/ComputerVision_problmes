@@ -24,7 +24,7 @@ Build a bubble sheet scanner and test grader using Python and OpenCV.
 ## No. 5 - OpenCV Text Detection
 How to use OpenCV to detect text in natural scene images using the EAST text detector.
 
-## No. 6 OpenCV Text Recognition
+## No. 6 - OpenCV Text Recognition
  How to apply OpenCV OCR to perform both:
     Text detection
     Text recognition
@@ -33,5 +33,8 @@ To accomplish this task we:
     From there, we extracted each of the text ROIs and then applied text recognition using OpenCV and Tesseract v4.
 We also looked at Python code to perform both text detection and text recognition in a single script.
 
-## No. 7 Ball Tracking with OpenCV
+## No. 7 - Ball Tracking with OpenCV
 The Python script we developed was able to (1) detect the presence of the colored ball, followed by (2) track and draw the position of the ball as it moved around the screen.
+
+## No. 8 - Facial landmarks with dlib, OpenCV, and Python
+How to detect and extract facial landmarks using dlib, OpenCV, and Python.
